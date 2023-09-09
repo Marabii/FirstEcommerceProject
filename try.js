@@ -1,0 +1,1 @@
+console.log(document.querySelectorAll(".some-element:last-child"))
